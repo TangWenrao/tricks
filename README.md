@@ -8,3 +8,6 @@
 - single_dog（测试你离脱单还有几步的沙雕程序
   - babies.cpp
   - babies.exe
+- hr（黑人抬棺）
+  - static
+  - hr.html
